@@ -1,0 +1,19 @@
+{
+  "name": "fira",
+  "version": "1.0.0",
+  "description": "See http://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/ for more details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypress-io/fira.git"
+  },
+  "author": "Brian Mann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cypress-io/fira/issues"
+  },
+  "homepage": "https://github.com/cypress-io/fira#readme"
+}
